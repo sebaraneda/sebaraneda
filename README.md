@@ -13,18 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Sebastian!
+# Sebastian Araneda
 
-<a href="https://www.linkedin.com/in/araneda-s/">
-  <img align="left" alt="linkedin" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-</a>
-
-<br />
-<br />
-
-#
-
-I'm a `Full Stack Developer` with a `Bachelor's degree in Computer Science`, primarily with experience in `web application development`.
+**`Full Stack Developer`** with a **`Bachelor's degree in Computer Science`**, primarily experienced in **`web application development`**.
 
 - 🔭 I’m currently working on [PokerCity.com](https://pokercity.com)
 - 🌱 I’m currently learning TypeScript
@@ -74,4 +65,4 @@ I'm a `Full Stack Developer` with a `Bachelor's degree in Computer Science`, pri
 
 <img align="center" alt="Sebaraneda's GitHub Stats" src="https://github-readme-stats-sebaraneda.vercel.app/api/?username=sebaraneda&show_icons=true&theme=graywhite">
 
-<b>Note:</b> This metric relates only to my public code.
+<b>Note:</b> Metrics relate only to public repository code.
