@@ -16,25 +16,24 @@ Here are some ideas to get you started:
 ### Hi there, I'm Sebastian!
 
 <a href="https://www.linkedin.com/in/araneda-s/">
-    <img align="left" alt="linkedin" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  <img align="left" alt="linkedin" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
 
 <br />
 <br />
 
----
+#
 
 I'm a `Full Stack Developer` with a `Bachelor's degree in Computer Science`, primarily with experience in `web application development`.
 
-- 🔭 I’m currently working on [PokerCity.com](pokercity.com)
+- 🔭 I’m currently working on [PokerCity.com](https://pokercity.com)
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: [Email me!](mailto:araneda3@myumanitoba.ca)
 - ⚡ Fun fact: I love music production and synthesis!
 
-<br />
-<br />
+<div width="100%" style="padding-top:10px"></div>
 
----
+#
 
 ### Programming Languages and Libraries
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -50,7 +49,7 @@ I'm a `Full Stack Developer` with a `Bachelor's degree in Computer Science`, pri
 <br />
 <br />
 
-### Software, Tools, and Technologies
+### Tools and Technologies
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 <img align="left" alt="Google Cloud Platform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="aws" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
@@ -67,8 +66,9 @@ I'm a `Full Stack Developer` with a `Bachelor's degree in Computer Science`, pri
 
 <br />
 <br />
+<div width="100%" style="padding-top:10px"></div>
 
----
+#
 
 <h3>GitHub Profile Stats</h3>
 
