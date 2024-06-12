@@ -58,11 +58,3 @@ Here are some ideas to get you started:
 <br />
 <br />
 <div width="100%" style="padding-top:10px"></div>
-
-#
-
-<h3>GitHub Profile Stats</h3>
-
-<img align="center" alt="Sebaraneda's GitHub Stats" src="https://github-readme-stats-sebaraneda.vercel.app/api/?username=sebaraneda&show_icons=true&theme=graywhite">
-
-<b>Note:</b> Metrics relate only to public repository code.
