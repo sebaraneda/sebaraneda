@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 **`Full Stack Developer`** with a **`Bachelor's degree in Computer Science`**, primarily experienced in **`web application development`**.
 
 - 🔭 I’m currently working on [PokerCity.com](https://pokercity.com)
-- 🌱 I’m currently learning Go<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+- 🌱 I’m currently learning <img align="right" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 - 📫 How to reach me: [Email me!](mailto:araneda3@myumanitoba.ca)
 - ⚡ Fun fact: I love music production and synthesis!
 
